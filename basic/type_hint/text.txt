@@ -1,0 +1,2 @@
+type hint를 작성해도 python interpreter가 경고하지 않는다. 경고는 idle같은 곳에서 처리함.
+3.11 3.12부터 다시 type hint를 작성하지 않는 것으로 변경.

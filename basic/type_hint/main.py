@@ -1,4 +1,4 @@
-def test(num: int) :
+def test(num: int):
     print(num)
 
 test(3.1)
